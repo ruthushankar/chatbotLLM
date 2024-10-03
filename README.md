@@ -5,3 +5,7 @@
 ## flan-t5-xl chatbot - 
 
 TFAutoModelForSeq2SeqLM: This is the TensorFlow version of a sequence-to-sequence language model, which is often used for tasks like translation or summarization.
+
+Methods used -
+- Quantization
+- Pruning
