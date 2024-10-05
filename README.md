@@ -4,7 +4,7 @@
 
 ## flan-t5-xl chatbot - 
 
-TFAutoModelForSeq2SeqLM: This is the TensorFlow version of a sequence-to-sequence language model, which is often used for tasks like translation or summarization.
+TFAutoModelForSeq2SeqLM: This is the TensorFlow version of a sequence-to-sequence language model, which is often used for tasks like translation or summarization. We are fine tuning the model on OpenOrca dataset by taking only 10000 entries as it's a huge dataset and would take 10 minutes to process the whole dataset even with GPU. We are training it only for 2 epochs and using adam optimizer of tensorflow. Rouche metrics is used to check scores.
 
 Methods used -
 - Quantization
