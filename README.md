@@ -12,4 +12,4 @@ has been implemented too, to adjust the chatbot’s responses based on user sent
 
 Methods used -
 - Quantization
-- Pruning
+- Pruning - Using this to make the model better
