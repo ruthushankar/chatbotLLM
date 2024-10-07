@@ -13,3 +13,7 @@ has been implemented too, to adjust the chatbot’s responses based on user sent
 Methods used -
 - Quantization
 - Pruning - Using this to make the model better
+
+## Model Distillation
+
+Smaller model is trained to mimic the performance of a larger model. Smaller model is called student and larger model is called teacher
