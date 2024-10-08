@@ -17,3 +17,9 @@ Methods used -
 ## Model Distillation
 
 Smaller model is trained to mimic the performance of a larger model. Smaller model is called student and larger model is called teacher
+
+
+
+## Model Quantization
+
+Model is smaller and performance is also better compared to normal model
