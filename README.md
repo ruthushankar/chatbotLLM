@@ -23,3 +23,8 @@ Smaller model is trained to mimic the performance of a larger model. Smaller mod
 ## Model Quantization
 
 Model is smaller and performance is also better compared to normal model
+
+
+Pruning: Implement model pruning using TensorFlow’s model optimization toolkit.
+Quantization: Apply TensorFlow Lite for quantizing the model.
+Integration: Update your Flask chatbot to load and use the optimized model.
