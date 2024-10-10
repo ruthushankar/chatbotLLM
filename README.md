@@ -28,3 +28,22 @@ Model is smaller and performance is also better compared to normal model
 Pruning: Implement model pruning using TensorFlow’s model optimization toolkit.
 Quantization: Apply TensorFlow Lite for quantizing the model.
 Integration: Update your Flask chatbot to load and use the optimized model.
+
+
+## More about pruning_quant_fineTuned.ipynb
+
+Purpose: This function prepares the dataset for a translation task from English to German.
+
+Example input:
+
+**{
+    "translation": [
+        {"en": "Hello", "de": "Hallo"},
+        {"en": "How are you?", "de": "Wie geht's?"},
+        {"en": "I love programming.", "de": "Ich liebe Programmieren."}
+    ]
+}**
+
+
+
+
