@@ -10,6 +10,8 @@ TFAutoModelForSeq2SeqLM: This is the TensorFlow version of a sequence-to-sequenc
 ##Sentiment Analysis Pipeline 
 has been implemented too, to adjust the chatbot’s responses based on user sentiment. The Chatbot gives an empathetic response if the input is termed to have a "NEGATIVE" sentiment.
 
+Tokenization is splitting a sentence into smaller form 
+
 Methods used -
 - Quantization
 - Pruning - Using this to make the model better
